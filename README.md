@@ -2,7 +2,8 @@
 
 [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) 的 Python 移植版，作为 [OpenClaw](https://github.com/nicepkg/openclaw) 的 Skill 使用。
 
-基于 Playwright 实现浏览器自动化，支持小红书、知乎等站点的内容搜索、抓取、下载。
+持小红书、知乎等站点的内容搜索、抓取、下载。
+ai容易扩展对其他网站的支持
 
 ## 功能
 
